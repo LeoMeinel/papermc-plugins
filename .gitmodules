@@ -1,15 +1,15 @@
 [submodule "DropConfirm"]
-	path = DropConfirm
-	url = git@github.com:LeoMeinel/DropConfirm.git
+path = DropConfirm
+url = git@github.com:LeoMeinel/DropConfirm.git
 [submodule "GBooster"]
-	path = GBooster
-	url = git@github.com:LeoMeinel/GBooster.git
+path = GBooster
+url = git@github.com:LeoMeinel/GBooster.git
 [submodule "RandomSpawnTp"]
-	path = RandomSpawnTp
-	url = git@github.com:LeoMeinel/RandomSpawnTp.git
+path = RandomSpawnTp
+url = git@github.com:LeoMeinel/RandomSpawnTp.git
 [submodule "SpecPlayer"]
-	path = SpecPlayer
-	url = git@github.com:LeoMeinel/SpecPlayer.git
+path = SpecPlayer
+url = git@github.com:LeoMeinel/SpecPlayer.git
 [submodule "vital"]
-	path = vital
-	url = git@github.com:LeoMeinel/vital.git
+path = vital
+url = git@github.com:LeoMeinel/vital.git
