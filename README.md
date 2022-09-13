@@ -5,7 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Quality][quality-shield]][quality-url]
 
 <!-- PROJECT LOGO -->
 <!--suppress ALL -->
@@ -130,5 +129,3 @@ Project Link - [papermc_plugins](https://github.com/LeoMeinel/papermc_plugins) -
 [issues-url]: https://github.com/LeoMeinel/papermc_plugins/issues
 [license-shield]: https://img.shields.io/github/license/LeoMeinel/papermc_plugins?style=for-the-badge
 [license-url]: https://github.com/LeoMeinel/papermc_plugins/blob/main/LICENSE
-[quality-shield]: https://img.shields.io/codefactor/grade/github/LeoMeinel/papermc_plugins?style=for-the-badge
-[quality-url]: https://www.codefactor.io/repository/github/LeoMeinel/papermc_plugins
