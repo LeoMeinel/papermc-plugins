@@ -1,0 +1,15 @@
+[submodule "dropconfirm"]
+	path = dropconfirm
+	url = git@github.com:LeoMeinel/dropconfirm.git
+[submodule "gbooster"]
+	path = gbooster
+	url = git@github.com:LeoMeinel/gbooster.git
+[submodule "papermc-plugins-vital"]
+	path = papermc-plugins-vital
+	url = git@github.com:LeoMeinel/papermc-plugins-vital.git
+[submodule "randomspawntp"]
+	path = randomspawntp
+	url = git@github.com:LeoMeinel/randomspawntp.git
+[submodule "specplayer"]
+	path = specplayer
+	url = git@github.com:LeoMeinel/specplayer.git
